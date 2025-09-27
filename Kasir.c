@@ -1,8 +1,3 @@
-/*
-Nama: Muhammad Regan Azfar Azizan
-NIM: L0125054
-*/
-
 #include <stdio.h>
 
 int main(){
@@ -36,4 +31,5 @@ int main(){
         printf("Harga setelah diskon: %.0f",harga_setelah_diskon); //pake .0f supaya hasilnya jadi bilangan bulat
     }
     return 0;
+
 }
