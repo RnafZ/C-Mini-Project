@@ -1,8 +1,3 @@
-/*
-Nama: Muhammad Regan Azfar Azizan
-NIM: L0125054
-*/
-
 #include <stdio.h>
 #include <math.h>
 
@@ -151,4 +146,5 @@ int main(){ //fungsi utama
             }
         }
     }
+
 }
