@@ -146,5 +146,4 @@ int main(){ //fungsi utama
             }
         }
     }
-
 }
